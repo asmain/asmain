@@ -1,4 +1,4 @@
-- 👋 Hi, I’m smain
+- 👋 Hi, I’m Smaïn
 - 👀 I’m interested in Data center infrastructure management tools and
 - 🌱 I’m currently learning about grafana products
 - 💞️ I’m looking for high availability web based management tools
