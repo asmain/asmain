@@ -1,7 +1,7 @@
 - 👋 Hi, I’m smain
-- 👀 I’m interested in Data center infrastructure management tools and High available web palteformes 
+- 👀 I’m interested in Data center infrastructure management tools and
 - 🌱 I’m currently learning about grafana products
-- 💞️ I’m looking for high availability infrastructure  management tools
+- 💞️ I’m looking for high availability web based management tools
 - 📫 How to reach me https://dz.linkedin.com/smain
 
 <!---
